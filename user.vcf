@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Daria;Tikhomirova;;;
+FN: Daria  Tikhomirova 
+ORG:GoStartup;
+TITLE:Marketing & Business Development 
+EMAIL;type=INTERNET;type=WORK;type=pref:daria@gostartupco.com
+TEL;type=WORK;type=VOICE:+358 40 8586429
+item1.ADR;type=WORK;type=pref:;;Lapinlahdenkatu 16 \Helsinki\;;;00180;Finland
+item1.X-ABADR:sg
+item2.URL;type=pref:gostartupco.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
